@@ -4,3 +4,4 @@ shandy,Milo's Shady Shanty,4
 wine,Flower's Breath,5
 shandy,Dragon's Breath,6
 Berry Mojito,Dave Henry's Female drink,2
+TBS,Trump Bullshit in a cup, 0
