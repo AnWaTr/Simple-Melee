@@ -1,7 +1,7 @@
 ## SimpleMelee-V2
 During a project at Starkey I was asked to build an Android app with Kotlin.  
 
-Problem - I never used Kotlin. 
+Problem - I never used Kotlin...and never held an Android phone! 
 
 So, I found a great book by [https://www.bignerdranch.com](https://www.bignerdranch.com) on Kotlin and built the following terminal driven role playing game. 
 
