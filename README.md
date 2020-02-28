@@ -15,5 +15,7 @@ If you would like to download and run this game, please do!  Be sure you have in
 
 If you want to add your own flare to this simple game - please do!  Maybe we can all build the next generation ZORK. 
 
+![Image description](melee.png)
+
 Cheers - Andrew
 
